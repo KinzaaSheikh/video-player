@@ -1,0 +1,19 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "Backend of a video playing and uploading website in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinzaaSheikh/video-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinzaaSheikh/video-player/issues"
+  },
+  "homepage": "https://github.com/KinzaaSheikh/video-player#readme"
+}
