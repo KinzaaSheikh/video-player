@@ -1,5 +1,5 @@
 # Learnings from Chai aur Code YouTube channel
 
-# video-player
+video-player
 
-# Based on the following database model: [https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj]
+- Based on the following database model: [https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj]
